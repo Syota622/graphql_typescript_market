@@ -1,0 +1,19 @@
+{
+  "name": "graphql_typescript_market",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1",
+    "graphql-playground-middleware-express": "^1.7.23",
+    "typescript": "^5.4.5"
+  }
+}
